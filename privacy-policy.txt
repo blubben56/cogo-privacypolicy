@@ -1,3 +1,155 @@
-Integritetspolicy:
+AVTAL MELLAN COGO OCH ANVÄNDARE
+I detta dokument finns tre (3) avtal, som måste ingås mellan CoGo UF och Användare, för att Användare ska kunna skapa ett medlemskonto och nyttja mobilapplikationen ”CoGo”. Dessa avtal är skapade och skrivna av Digitala Juristerna (www.digitalajuristerna.se). Ibland hänvisas till ”vi”, ”oss”, ”vår” eller ”våra”, varvid menas CoGo UF. Genom att använda tjänsten ”CoGo”, godkänner du som Användare och Medlem följande Användarvillkor, Dataskyddspolicy och Personuppgiftsbiträdesavtal:
+COGO:S ANVÄNDARVILLKOR
+1. Inledning
+1.1 Mobilapplikationen ”CoGo” ägs av CoGo UF. Applikationen hämtas via Appstore eller Playstore och är kostnadsfri att ladda ner och att använda.
+1.2 Personer som skapar ett användarkonto kallas härefter ”Användare” eller ”Medlem”.
+2. Medlemskap
+2.1 Vi erbjuder vår tjänst till Användare som är registrerade Medlemmar i mobilapplikationen ”CoGo”. ”CoGo” är en förmedlingsplattform som innehåller erbjudanden och rabatter från diverse anslutna företag, som kan nyttjas i utbyte mot så kallade ”CoGo-poäng”, som ges vid Användarens utförande av fysisk aktivitet.
+2.2 Våra Medlemmar avtalar om köp via mobilapplikationen och ges tillträde till plattformen genom nyregistrering. För att Användare ska registrera sitt medlemskap, krävs att Användaren uppger sin e-postadress samt sitt valda lösenord. Detta görs av säkerhetsskäl och med hänsyn till Användarnas och företagens trygghet. Användare uppger sitt för- och efternamn i samband med nyregistrering.
+2.3 Medlemskap i ”CoGo” är giltigt och skapas vid:
+- Medlemmens godkännande av våra följande avtal: Användarvillkor, Dataskyddspolicy och Personuppgiftsbiträdesavtal,
+- Medlemmens skapande av ett användarkonto, genom dennes korrekta inmatning av medlemsinformation (e-postadress och sitt valda lösenord) i applikationen.
+2.4 Vi har rätt att utan föregående meddelande till eller medgivande av Medlem, annullera eller vägra ett medlemskap. Samtliga Medlemmar kan självmant säga upp sitt medlemskap, genom att radera kontot manuellt via fliken ”Profil” i applikationen eller genom att skicka en förfrågan till cogouf@outlook.com.
+2.5 Samtliga Användare är själva ansvariga för att skydda sina inloggningsuppgifter och andra aktiviteter som sker med anledning av användarkontot. Användare som misstänker att sitt konto missbrukats på något sätt, ska omedelbart kontakta oss per e-post via cogouf@outlook.com.
+3. Tjänster
+3.1 Medlemmar ges tillgång till erbjudanden och rabattkoder från diverse anslutna företag via applikationen ”CoGo”. Plattformen innehåller och ger tillgång till information, som gör det möjligt för Medlemmar att låsa upp erbjudanden och rabattkoder i utbyte mot fysisk aktivitet.
+1 (8)
+ 4. Marknadsföring
+4.1 Det är inte tillåtet för Medlem att marknadsföra på egna eller andras vägnar, genom direkt eller dold reklam, på våra sociala medier, övriga kanaler eller i applikationen.
+4.2 Det anses utgöra en väsentlig överträdelse av detta avtal mellan CoGo UF och Medlem, om Medlemmen handlar i strid med ovanstående punkt. Vi förbehåller oss rätten att både ta bort innehåll från applikationen och att vidta ytterligare rättsliga åtgärder gentemot Medlem på grund av sådan överträdelse.
+5. Medlemmars särskilda skyldigheter
+5.1 Personuppgifter som en Medlem lämnar till oss ska vara korrekta och får inte strida mot tredje parts rättigheter eller lag.
+5.2 Genom att acceptera dessa användarvillkor garanterar Medlemmen att hen;
+ - inte ska tillföra något kriminellt, brottsligt eller straffrättsligt innehåll i ”CoGo”,
+- inte ska tillföra något virusprogram eller annan typ av programvara som kan skada
+andra Medlemmars program och hårdvara eller ”CoGo”,
+- inte ska missbruka uppgifter som kan hämtas från ”CoGo”.
+ 5.3 Medlem garanterar att ”CoGo” används i enlighet med villkoren i detta avtal. Vi har rätt att, utan att ange skäl, annullera, radera, låsa, frysa eller vägra ett medlemskonto, utan föregående meddelande till eller medgivande från Användare. Vi har rätt att stänga av Medlem som bryter mot svensk lag eller bestämmelser i dessa allmänna villkor. Vi har även rätt att ta bort innehåll från applikationen, utan föregående samtycke, om det upplevs som stötande eller olämpligt i förhållande till den tjänst vi bedriver. Vid mindre överträdelser mot dessa regler utdelas en varning. Vid upprepade överträdelser eller allvarliga lagbrott, förbehåller vi oss rätten att stänga av Medlem med omedelbar verkan och att vidta ytterligare rättsliga åtgärder på grund av sådan överträdelse.
+5.4 Vi förbehåller oss rätten att dela personuppgifter, om det är nödvändigt för att följa gällande lagstiftning, leverera våra tjänster eller tillämpa dessa användarvillkor. I övriga fall delar vi inga uppgifter med tredje part eller med länder utanför EU/ESS.
+5.5 Medlem godkänner att vi kan använda oss av GPS-funktion för att lokalisera Medlemmars befintliga geografiska plats, i syfte att finna närliggande butiker. Vi sparar inte sådan information om Medlemmar.
+6. Ansvarsbegränsningar och friskrivningar
+6.1 ”CoGo” är endast en annonseringsplattform, som fungerar som en mellanhand och länk mellan privatpersoner och olika företag. Användning av applikationen sker på Medlemmens egen risk och av fri vilja. Vi ansvarar därför inte för vad som avtalas mellan företag och Medlemmar och vi lämnar inga som helst garantier.
+6.2 Vår tjänst anses vara genomförd när Medlemmen samlat poäng genom fysisk aktivitet och därefter låser upp ett erbjudande eller rabattkod med sina ”CoGo-poäng”.
+6.3 Vi kan inte hållas ansvarig för tekniska fel, virus, tjänstens tillgänglighet, andra fel hänförliga till tjänstens funktionalitet eller liknande, med undantag för fall av grov vårdslöshet eller uppsåt. Vi kan inte garantera att applikationen kommer att vara fri från störningar eller förseningar och ”CoGo” tillhandahålls därför ”i befintligt skick”.
+2 (8)
 
-Bla bla.
+6.4 Vi kan inte hållas ansvarig för förlorad data, information, vinst eller andra följdskador och ekonomiska förluster, med undantag för fall av grov vårdslöshet eller uppsåt.
+7. Användarens personuppgifter
+7.1 För att skapa ett Användarkonto genom medlemskap krävs att Användaren uppger sitt fullständiga namn och e-postadress.
+7.2 Vid skapandet av ett användarkonto hos ”CoGo” är Medlemmar medvetna om och samtycker till att personuppgifter (fullständigt namn och e-postadress) som Användaren uppger, lagras i vår databas.
+7.3 Användare däremot anger en värvningskod vid registrering, sparas Användarens namn i värvarens profil bland alla andra medlemmar som värvaren har registrerat.
+7.4 Medlemmar som har frågor rörande sina personuppgifter eller som vill tillvarata sina rättigheter, hänvisas till cogouf@outlook.com. Läs mer om behandlingen av personuppgifter i vår Dataskyddspolicy.
+8. Ändringar av villkor
+8.1 Vi förbehåller oss rätten att fritt ändra dessa användarvillkor. Om ändringar görs, meddelas Medlemmar genom ett meddelande i applikationen eller via CoGo:s sociala medier. Vid ändringar kan Medlemmar välja att acceptera de nya villkoren eller att avsluta sitt medlemskap och användarkonto hos ”CoGo” med omedelbar verkan.
+9. Tillämplig lag och jurisdiktion
+9.1 Dessa användarvillkor regleras av svensk rätt. Giltigheten av bestämmelserna i dessa villkor påverkas inte av om en eller flera bestämmelser inte är verksamma eller genomförbara. Istället ska endast den ogiltiga delen revideras.
+9.2 Tvister som uppstår i anledning av tolkningen eller tillämpningen av dessa avtalsvillkor och därmed sammanhängande rättsförhållanden, ska i första hand avgöras direkt med Användaren. Om tvist fortfarande föreligger, ska tvisten slutligen avgöras enligt svensk lag och prövas enligt svensk rätt av allmän domstol.
+
+COGO:S DATASKYDDSPOLICY
+1. Inledning och syfte
+1.1 I denna dataskyddspolicy finns information om hur vi, ”CoGo UF”, hanterar och behandlar personuppgifter som lämnas till oss. Detta avtal är skapat och skrivet av Digitala Juristerna (www.digitalajuristerna.se). I denna policy finns information om hur vi behandlar uppgifterna och vilka rättigheter de registrerade har. För oss är enskildas personliga integritet mycket viktig och vi eftersträvar hög nivå av dataskydd.
+1.2 Syftet med denna policy är att säkerställa att vi hanterar personuppgifter i enlighet med EU:s dataskyddsförordning (General Data Protection Regulation – GDPR). Policyn omfattar alla behandlingar där personuppgifter hanteras, såväl strukturerad som ostrukturerad data och gäller för både Användare, anställda och anslutna företag.
+3 (8)
+ 2. Personuppgift och behandling av personuppgifter
+2.1 ”Personuppgifter” är alla uppgifter som direkt eller indirekt hänför sig till en levande fysisk person. Exempel: Namn, adressuppgifter, personnummer, köphistorik, e- postadress.
+2.2 ”Registrerad” kallas den fysiska person som kan identifieras genom personuppgifterna.
+2.3 Med ”personuppgiftsbehandling” avses allt som sker med personuppgifterna, inom och utanför IT-system, genom en åtgärd eller kombination av åtgärder beträffande personuppgifter. Exempel: registrering, lagring, organisering och strukturering av personuppgifter.
+3. Personuppgiftsansvarig
+3.1 CoGo UF är personuppgiftsansvarig för alla inkommande personuppgifter och ansvarar för att behandlingen av personuppgifter följer denna policy (enligt principen om ansvarsskyldighet). Policyn fastställs minst en (1) gång per år och uppdateras vid behov. Användare av ”CoGo” är dock personuppgiftsansvariga för de uppgifter som Användare lämnar till oss och vi är Användares personuppgiftsbiträde.
+ CoGo UF:s kontaktperson för personuppgiftsärenden: Namn: Siva Arif.
+ Telefon: 073-312 56 40. E-post: cogouf@outlook.com.
+4. Behandling av personuppgifter
+Vilka personuppgifter vi behandlar
+ 4.1 För att vi ska ha rätt att använda personuppgifter, krävs att vi har så kallad ”rättslig grund” (enligt principen om lagenlighet, korrekthet och öppenhet), vilket vi inhämtar genom:
+ - Samtycke (Användaren godkänner att vi behandlar dennes personuppgifter genom att självmant skapa sitt användarkonto och uppge sina personuppgifter).
+- Avtal med Användaren (Användaren anses ha förstått och accepterat att behandling av dennes personuppgifter kommer att ske, för att vi ska kunna fullgöra avtalet mellan oss, dvs. leverera tjänsten och mobilapplikationen CoGo).
+- att uppgifterna är nödvändiga för att vi ska uppfylla rättsliga förpliktelser, tex. att sköta vår bokföring/fakturering i enlighet med svensk gällande lag.
+4.2 De vanligaste personuppgifterna vi behandlar är Användares fullständiga namn och e- postadress. Vi försöker att arbeta främst genom principen om uppgiftsminimering avseende lagring av personuppgifter, dvs. genom att endast behandla de uppgifter som är nödvändiga, adekvata och relevanta för varje enskilt ändamål.
+4.3 Om vi vill registrera fler personuppgifter än vad som behövs, måste vi först fråga Användaren om lov och få ett godkännande.
+Varför vi behandlar personuppgifter
+  4.4 Vi behandlar personuppgifter, för att Användare och företag ska kunna använda ”CoGo” och för att driva, tillhandahålla och underhålla funktionerna applikationen.
+4.5 Vi behandlar Medlemmars personuppgifter för att de ska kunna skapa en egen personlig profil i applikationen, vari deras ”CoGo-poäng” samlas. Inloggning sker via angiven e- postadress och det fullständiga namnet står med i Användarens profil.
+4 (8)
+
+ 4.6 När Användare låser upp rabatter och erbjudanden, syns Användare endast med ett unikt användar-ID i vår databas. Vid engångserbjudanden och rabatter är Användares namn och e-postadress kopplat till köpet.
+4.7 De personuppgifter som finns i ”CoGo” kan även användas för anonyma, statistiska och interna utvärderingsändamål. En Medlem kan välja att ta bort personlig information från applikationen, genom att radera sitt konto i sin helhet.
+Hur vi samlar in personuppgifter
+Vart personuppgifterna lagras
+Hur länge personuppgifterna sparas
+ 4.8 Mottagandet av personuppgifterna sker genom att Användaren skapar ett användarkonto i applikationen och självmant uppger personuppgifterna. Personuppgifterna behandlas varsamt av oss och delas inte till obehöriga.
+ 4.9 Vi är skyldiga att vidta lämpliga tekniska och organisatoriska åtgärder för att skydda personuppgifterna vi behandlar enligt gällande dataskyddslagstiftning. Vi överför inga personuppgifter till ett land utanför EU/ESS, om överföringen inte uppfyller kraven enligt gällande dataskyddsregler. Personuppgifterna lagras i Sverige i svenska servrar och system (enligt principen om integritet och konfidentialitet).
+  4.10 Vi kan spara information om en Användare högst ett (1) år efter att Användarens konto har avslutats permanent, om uppgifterna inte enligt lag behöver sparas längre. Gallring av personuppgifter sker minst årligen. Informationen kan sparas under viss tid för säkerhetskopiering, arkivering, revision, eller för att på annat sätt behålla och förbättra tjänsten. Uppgifterna får dock inte lagras under längre tid än vad som är nödvändigt, för att uppfylla de ändamål för vilka de samlades in. Personuppgifter som inte längre får lagras, raderas med jämna mellanrum (enligt principen om lagringsminimering). Något som kan påverka lagringstiden är Bokföringslagen (1999:1078). Uppföljning och utvärdering av vår hantering av personuppgifter ska ske minst årligen.
+4.11 Vi sparar aldrig personuppgifter längre än vad som är nödvändigt för respektive ändamål. Så länge Användare har ett registrerat medlemskonto, är personuppgifterna lagrade i vår databas. Google Analytics används för att kunna se statisk om Användarnas aktivitet i ”CoGo” i syfte att utveckla applikationen. Vi delar inte med oss av information om Användares användning till tredje part.
+5. Underleverantörer
+ 5.1 Som en del av leveransen av ”CoGo”, för att vi ska sköta vår bokföring och fakturering korrekt och för att vi ska förbättra applikationen, kan vi använda oss av underleverantörer inom eller utanför EU i rollen underbiträde. Vi ska säkerställa att underbiträden åtar sig ansvar som motsvarar de skyldigheter som anges i detta avtal. Användare ska underrättas innan väsentliga ändringar sker rörande underleverantörer som behandlar deras personuppgifter. En ändring av underleverantör ska dock inte i sig att betraktas som ett brott mot detta avtal. Genom att godkänna detta avtal accepterar du som Användare av ”CoGo” att vi använder oss av underleverantörer på så sätt som beskrivs ovan. Exempel på underleverantörer är bland annat ekonomisystem, bokföringssystem, mailleverantör och olika lagringssystem.
+5 (8)
+
+ 6. De registrerades rättigheter
+6.1 Som ”registrerad” har Användare ett antal rättigheter enligt gällande lagstiftning. De viktigaste rättigheterna för de registrerade är att de kostnadsfritt har rätt att få:
+ - tillgång till sina personuppgifter.
+- felaktiga personuppgifter rättade.
+- sina personuppgifter raderade.
+- invända mot att personuppgifterna användas för direktmarknadsföring och
+profilering.
+ 6.2 Vänligen kontakta vår kontaktperson för personuppgiftsärenden, om ni vill att något av ovanstående utförs avseende era personuppgifter.
+7. Klagomål
+7.1 Eventuella klagomål på vår behandling av personuppgifter kan lämnas in till oss via cogouf@outlook.com eller till Datainspektionen som är tillsynsmyndighet.
+8. Personuppgiftsincidenter
+8.1 Eventuella incidenter rörande personuppgifter som vi behandlar ska utan dröjsmål rapporteras till vår personuppgiftsansvarig. En personuppgiftsincident är exempelvis ett dataintrång eller annat som innebär att vi förlorar kontrollen över de uppgifter vi behandlar. Alla sådana händelser dokumenteras internt. CoGo:s personuppgiftsansvarig ska senast inom 72 timmar anmäla incidenten till Datainspektionen.
+COGO:S PERSONUPPGIFTSBITRÄDESAVTAL 1. Inledning
+1.1 Användare behöver lämna sina personuppgifter till oss för att kunna använda mobilapplikationen ”CoGo”. Detta avtal reglerar vår behandling av personuppgifter på uppdrag av Användaren och beskriver hur dataskydd säkerställs, genom tekniska och organisatoriska åtgärder enligt gällande dataskyddslagstiftning. Avtalet är skapat och skrivet av Digitala Juristerna (www.digitalajuristerna.se).
+1.2 Detta avtal är en integrerad del av vår Dataskyddspolicy och Användarvillkor som måste godkännas av Användaren, för att Användaren ska kunna använda ”CoGo”.
+1.3 Detta avtal har företräde framför eventuella motstridiga bestämmelser om behandling av personuppgifter i de avtal som ingåtts mellan Parterna (Användarvillkor och Dataskyddspolicy).
+2. Begrepp och förkortningar
+2.1 Definitionen av ”personuppgifter”, ”registrerad”, ”personuppgiftsbehandling” m.fl. är densamma som används i gällande dataskyddslagstiftning, inklusive den allmänna dataskyddsförordningen (GDPR - General Data Protection Regulation) (”gällande dataskyddslagstiftning”).
+2.2 I detta avtal benämns Personuppgiftsansvarig som ”Användaren” och Personuppgiftsbiträdet som ” CoGo” och gemensamt som ”Parterna”.
+6 (8)
+
+ 3. Syftet med personuppgiftsbehandlingen
+3.1 Personuppgifter behandlas av oss för att:
+ - användare ska kunna använda mobilapplikationen ”CoGo”,
+- vi ska kunna driva, tillhandahålla och underhålla funktionerna i ”CoGo”,
+- vi ska sköta vår bokföring och fakturering korrekt.
+ 4. Vår behandling av personuppgifter
+4.1 Vi får endast behandla personuppgifter på uppdrag av och i enlighet med Användarens instruktioner. Användaren instruerar oss att behandla personuppgifter på följande sätt:
+ - endast i enlighet med gällande lag,
+- för att uppfylla alla förpliktelser enligt avtal med Användaren,
+- på så sätt som anges i detta avtal.
+  4.2 Vi har ingen anledning att tro att det finns lagstiftning som förhindrar att vi följer de ovan angivna instruktionerna. Vi ska informera Användaren i de fall Användarens instruktioner eller behandling, enligt oss strider mot gällande dataskyddslagstiftning.
+ Vad vi ska säkerställa
+ 4.3 Vi ska säkerställa konfidentialitet, integritet och tillgänglighet av personuppgifter enligt Gällande Personuppgiftslagstiftning. Vi ska genomföra systematiska, organisatoriska och tekniska åtgärder för att säkerställa en lämplig säkerhetsnivå, med hänsyn tagen till den senaste tekniken och implementationskostnader i förhållande till den risk som behandlingen innebär, och typen av personuppgifter som ska skyddas.
+4.4 Vi ska bistå Användaren med lämpliga tekniska och organisatoriska åtgärder, så långt det är möjligt med hänsyn tagen till typen av behandling och den informationen som är tillgänglig för oss, för att uppfylla Användarens skyldigheter enligt gällande dataskyddslagstiftning avseende förfrågningar från Registrerade och allmänt dataskydd enligt Dataskyddsförordningen artikel 32-36.
+4.5 Om Användaren behöver information om säkerhetsåtgärder, dokumentation eller annan information om hur vi behandlar personuppgifter, och sådana förfrågningar innebär mer information än den standardinformation som tillhandahålls av oss för att följa gällande dataskyddslagstiftning som personuppgiftsbiträde, och det innebär mer arbete för oss, kan vi debitera Användaren för sådana ytterligare tjänster.
+4.6 Vi ska säkerställa konfidentialitet av personuppgifter som behandlas under detta avtal. Detta villkor gäller även efter att avtalen mellan oss och Användaren har upphört att gälla.
+ Meddelande till de registrerade
+ 4.7 Vi ska, genom att skyndsamt meddela Användaren utan onödigt dröjsmål, göra det möjligt för Användaren att uppfylla de rättsliga krav som gäller för information till relevanta dataskyddsmyndigheter och Registrerade vid personuppgiftsincidenter.
+4.8 Vi ska, i den utsträckning det är praktiskt möjligt och lagligt, meddela Användaren om;
+ - förfrågningar om utlämnande av Personuppgifter som erhållits från en Registrerad,  - förfrågningar från myndigheter, exempelvis Polisen, om utlämnande av
+Personuppgifter.
+ 7 (8)
+
+4.9 Vi får inte svara direkt på förfrågningar från Registrerade utan medgivande från Användaren eller delge innehåll rörande avtalet till myndigheter som Polisen, inklusive personuppgifter, med undantag för vad som är lagstadgat, exempelvis genom domstolsbeslut eller liknande beslut.
+5. Användarens skyldigheter
+5.1 Användaren bekräftar härmed att denne, i egenskap av personuppgiftsansvarig, vid användning av ”CoGo”:
+- behandlar personuppgifter i enlighet med kraven i gällande dataskyddslagstiftning,
+- har rättslig grund att behandla och utlämna de aktuella personuppgifterna till oss
+(inklusive eventuella underbiträden som vi använder),  
+- är ensamt ansvarig för riktigheten, integriteten, innehållet, tillförlitligheten och
+lagenligheten av de personuppgifter som lämnats till oss,
+- instämmer i att vår implementering av tekniska och organisatoriska säkerhetsåtgärder
+är tillräckliga för att skydda de registrerades integritet och personuppgifter,
+- inte överför några Känsliga Personuppgifter till ”CoGo”, tex. information om etniskt
+ursprung, sexuell läggning, politiska åsikter, religiös övertygelse m.fl.
+6. Säkerhet
+6.1 Vi har åtagit oss att tillhandahålla en lämplig säkerhetsnivå i applikationen. Vi tillhandahåller säkerhetsnivån genom organisatoriska, tekniska och fysiska säkerhetsåtgärder, i enlighet med kraven på informationssäkerhet som beskrivs i dataskyddsförordningen artikel 32.
+7. Revisionsrättigheter
+7.1 Användaren har rätt att genomföra årlig revision av vårt uppfyllande av villkoren i detta avtal. Användaren ger oss befogenhet att bestämma att revision ska utföras av en neutral tredjepartsrevisor.
+7.2 Användaren står för eventuella kostnader som uppstår i samband med begärda revisioner. Hjälp från oss, som överstiger standardtjänsten som tillhandahålls av oss för att följa gällande dataskyddslagstiftning, kommer att debiteras.
+8. Avtalstid och uppsägning
+8.1 Detta avtal är giltigt under tiden vi behandlar personuppgifter på uppdrag av Användaren.
+8.2 Avtalet upphör att gälla när vi inte längre behöver behandla personuppgifterna. När avtalet upphör kommer vi att radera samtliga icke nödvändiga personuppgifter som behandlats på uppdrag av Användaren.
+8.3 Personuppgifter kan sparas efter avtalets upphörande i den utsträckning det krävs enligt lag, med samma typ av tekniska och organisatoriska säkerhetsåtgärder som beskrivs i detta avtal.
+9. Tillämplig lag och jurisdiktion
+9.1 Detta avtal ska tolkas i enlighet med svensk lag och rätt. Tvister som uppstår i anledning av tolkningen eller tillämpningen av dessa avtalsvillkor och därmed sammanhängande rättsförhållanden, ska i första hand avgöras direkt med Användaren. Om tvist fortfarande föreligger, ska tvisten slutligen avgöras enligt svensk lag och prövas enligt svensk rätt av allmän domstol.
+8 (8)
